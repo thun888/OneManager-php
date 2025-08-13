@@ -1902,7 +1902,7 @@ output:
         <option value="Gitee">Gitee</option>
         <!--option value="HITGitlab">HIT Gitlab</option-->
     </select>
-    <input type="text" name="auth" size="6" placeholder="auth" value="qkqpttgf">
+    <input type="text" name="auth" size="6" placeholder="auth" value="thun888">
     <input type="text" name="project" size="12" placeholder="project" value="OneManager-php">
     <button name="QueryBranchs" onclick="querybranchs(this);return false;">' . getconstStr('QueryBranchs') . '</button>
     <select name="branch">
@@ -1913,7 +1913,7 @@ output:
 
 <script>
     function changeGitSource(d) {
-        if (d.options[d.options.selectedIndex].value=="Github") document.updateform.auth.value = "qkqpttgf";
+        if (d.options[d.options.selectedIndex].value=="Github") document.updateform.auth.value = "thun888";
         if (d.options[d.options.selectedIndex].value=="Gitee") document.updateform.auth.value = "qkqpttgf";
         if (d.options[d.options.selectedIndex].value=="HITGitlab") document.updateform.auth.value = "ysun";
         document.updateform.QueryBranchs.style.display = null;
