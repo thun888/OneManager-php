@@ -39,9 +39,9 @@
   https://repl.it/  
   https://replit.com/  
 
-### Demo
+### 注意
 
-  https://onemanager.qkqpttgf.repl.co/  
+  每30天要重新发布  
 
 ### 安装
 A:

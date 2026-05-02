@@ -37,9 +37,9 @@
   https://repl.it/  
   https://replit.com/  
 
-### Demo
+### Notice
 
-  https://onemanager.qkqpttgf.repl.co/  
+  you should Republish after 30 days to active it.  
 
 ### How to Install
 A:
@@ -223,4 +223,5 @@ End service
 ### Telegram Group
 
   https://t.me/joinchat/I_RVc0bqxuxlT-d0cO7ozw  
+
 
